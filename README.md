@@ -1,5 +1,8 @@
 
-# rcmerkle
+# merkel root calculation 
+
+Corresponding go version - https://github.com/suhasagg/fastest-merkle-tree-root-hash-calculator
+
 *Calculate the root of the Merkle Tree*
 
 **Supported In Two ways:**
