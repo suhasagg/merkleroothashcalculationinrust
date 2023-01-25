@@ -3,7 +3,7 @@
 
 Corresponding go version - https://github.com/suhasagg/fastest-merkle-tree-root-hash-calculator
 
-*Calculate the root of the Merkle Tree*
+*Calculate the root of the Merkle Tree* (takes care of scalability)
 
 **Supported In Two ways:**
 
