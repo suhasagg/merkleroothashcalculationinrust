@@ -1,5 +1,5 @@
 
-# merkel root calculation 
+# merkle root calculation 
 
 Corresponding go version - https://github.com/suhasagg/fastest-merkle-tree-root-hash-calculator
 
